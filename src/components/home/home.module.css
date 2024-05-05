@@ -1,0 +1,32 @@
+.mainContainer {
+  /* background: #fff; */
+  width: 100%;
+}
+
+.heading {
+  font-size: 20px;
+  color: #fff;
+}
+
+.inputContainer {
+  padding: 20px;
+  height: 20px;
+}
+.inputContainer input {
+  padding: 10px;
+  border-radius: 6px;
+}
+
+.addTaskButton {
+  margin-top: 10px;
+  text-align: left;
+}
+.tableContainer {
+  width: 250px;
+}
+.tableSingle {
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
